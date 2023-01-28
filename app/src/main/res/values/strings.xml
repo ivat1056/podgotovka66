@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">podgotovka66</string>
+    <array name="order">
+        <item>По умолчанию </item>
+        <item>Возврастания </item>
+        <item>Убывания </item>
+    </array>
+</resources>
